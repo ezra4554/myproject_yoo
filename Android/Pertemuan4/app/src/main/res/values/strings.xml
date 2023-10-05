@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Pertemuan 4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyo">Froyo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="text_intro">Droid Desserts</string>
+    <string name="order_label_text">Order Notes</string>
+    <string name="name_label_text">Name</string>
+    <string name="enter_name_hint">Isi nama lengkap</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_address_hint">Isi alamat sekarang</string>
+    <string name="phone_label_string">Phone</string>
+    <string name="enter_phone_hint">Isi dengan nomor telepon</string>
+    <string name="choose_delivery_method">Choose Delivery Method</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+
+    <string-array name="provinsi_array">
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Sumatera Utara</item>
+        <!-- Tambahkan provinsi-provinsi lain di sini jika diperlukan -->
+    </string-array>
+
+    <string-array name="kota_jawa_barat">
+        <item>Bandung</item>
+        <item>Bogor</item>
+        <item>Cimahi</item>
+        <item>Depok</item>
+        <item>Sukabumi</item>
+        <!-- Tambahkan kota-kota lain di Jawa Barat di sini -->
+    </string-array>
+
+    <string-array name="kota_jawa_tengah">
+        <item>Semarang</item>
+        <item>Surakarta</item>
+        <item>Yogyakarta</item>
+        <item>Magelang</item>
+        <item>Salatiga</item>
+        <!-- Tambahkan kota-kota lain di Jawa Tengah di sini -->
+    </string-array>
+
+    <string-array name="kota_jawa_timur">
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Probolinggo</item>
+        <item>Jember</item>
+        <item>Blitar</item>
+        <!-- Tambahkan kota-kota lain di Jawa Timur di sini -->
+    </string-array>
+
+    <string-array name="kota_sumatera_utara">
+        <item>Medan</item>
+        <item>Binjai</item>
+        <item>Pematang Siantar</item>
+        <item>Tebing Tinggi</item>
+        <item>Deli Serdang</item>
+        <!-- Tambahkan kota-kota lain di Sumatera Utara di sini -->
+    </string-array>
+</resources>
