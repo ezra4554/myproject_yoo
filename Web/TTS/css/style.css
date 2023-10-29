@@ -6,8 +6,8 @@ body {
 }
 
 .column {
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   background-color: white;
 }
 
@@ -43,19 +43,19 @@ sup {
 table {
   display: flex;
   justify-content: center;
-  /* background-color: rgb(121, 155, 147); */
 }
 
 .box {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: rgb(121, 155, 147);
   margin: 25px 25px;
 }
 
 .score {
+  display: table-column;
   text-align: center;
+  justify-content: center;
 }
 .content {
   width: 100%;
@@ -80,9 +80,28 @@ table {
 h5 {
   font-size: 15px;
 }
+
 h5,
 li {
   margin: 5px;
+}
+
+button {
+  text-decoration: none;
+  border: none;
+  height: 25px;
+  height: 25px;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+#done {
+  background-color: chartreuse;
+}
+#reset {
+  background-color: tomato;
 }
 
 /* @media screen (and) {
